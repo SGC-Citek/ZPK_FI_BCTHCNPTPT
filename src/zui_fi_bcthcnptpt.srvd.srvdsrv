@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service definition for BCTHCN'
+define service ZUI_FI_BCTHCNPTPT {
+  expose ZI_FI_BCTHCNPTPT;
+  expose ZI_FI_BCTHCNPTPT_HEADER;
+}
